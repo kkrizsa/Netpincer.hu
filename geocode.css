@@ -1,0 +1,10 @@
+html, body, #map-canvas , #filters{
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+
+#filters{
+	width: 250px;
+	float: left;
+}
